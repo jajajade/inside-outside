@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0Tutorial.unity
+    guid: ecce51ddeda204a3f8deec48e59dd7be
+  - enabled: 1
+    path: Assets/Scenes/0Breathing.unity
+    guid: 9a6699799e46f42c7a03f50aa19cb750
+  - enabled: 1
+    path: Assets/Scenes/0RootScene.unity
+    guid: 9bf6c0e157aff4b77bd90ccc9ed7f181
+  - enabled: 1
+    path: Assets/Scenes/Animation1Typing.unity
+    guid: fdde817e602c042f28664fb956e68d4c
+  - enabled: 1
+    path: Assets/Scenes/OttomanSit.unity
+    guid: c28b90db1619a453a9bbccb15651c6a7
+  - enabled: 1
+    path: Assets/Scenes/TypingScene.unity
+    guid: 44cfcac2d6f2f410ea90b32ef09dcf34
+  - enabled: 1
+    path: Assets/Scenes/WritingScene.unity
+    guid: 7d85c765af46945ad9598cf717026293
+  - enabled: 1
+    path: Assets/Scenes/Animation5Phone.unity
+    guid: 81a873faee87747db9a806fe035d93b0
+  - enabled: 1
+    path: Assets/Scenes/Animation6Writing.unity
+    guid: 51bc7befdbc854361bc3abb3b889ecef
+  - enabled: 1
+    path: Assets/Scenes/Animation4Typing.unity
+    guid: 7c801343e04fb4196b28cede0df4abbd
+  - enabled: 1
+    path: Assets/Scenes/Animation2Writing.unity
+    guid: b4163556b99544e63a3b4ddf78f932c5
+  - enabled: 1
+    path: Assets/Scenes/Animation3Sitting.unity
+    guid: 3ccf47966b87a44358e11f36bf21b852
+  - enabled: 1
+    path: Assets/Scenes/Animation7Typing.unity
+    guid: 0620a1251f9d8450496dd68588de3393
+  - enabled: 1
+    path: Assets/Scenes/Animation8Look.unity
+    guid: f3cd5b872a9114731b1e555402836daa
+  - enabled: 1
+    path: Assets/Scenes/EndRoot.unity
+    guid: ba47b3a394f154abc86b3cd0d819cd43
+  - enabled: 1
+    path: Assets/Scenes/EndPlant.unity
+    guid: 28d09b93effb54cf6b26bf596277d6fd
+  - enabled: 1
+    path: Assets/Scenes/TextIntro.unity
+    guid: 2b1865f91c1c74d969c13c9b1669bcda
+  - enabled: 1
+    path: Assets/Scenes/TextTransition1.unity
+    guid: 8adb11acf00a34229a835e3f0ac34e6d
+  - enabled: 1
+    path: Assets/Scenes/TextTransition2.unity
+    guid: 9ded75064f7bf45d683018bf07c74165
+  - enabled: 1
+    path: Assets/Scenes/TextWater.unity
+    guid: 0bb4c4bec46b64d678f176a6db721afa
+  - enabled: 1
+    path: Assets/Scenes/0RootScene2.unity
+    guid: 623021d7911b9485b9f49c85deda04ee
+  - enabled: 1
+    path: Assets/Scenes/EndBlack.unity
+    guid: aee8c21eac8d548c9b6863e3b850a5ab
+  m_configObjects: {}
