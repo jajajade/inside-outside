@@ -1,6 +1,5 @@
 # Inside Outside
 This is a simulated VR application built using WebGL, serving as a research probe for my Honours thesis which supports reflective processes in VR. Inside Outside explores design strategies which are aimed to invoke self-awareness in VR and invite users to reflect on their everyday lives through day-to-day narratives.
-![image](https://user-images.githubusercontent.com/37824250/141384789-a8b0c1b7-2cae-4afb-8174-5b24bf216cfe.png
 
 ## Live link
 There are three prototypes depending on which character you would like to play as (while all characters display the same story, it is recommended that you choose Michelle for the best experience). This should open the Unity deployment in your web browser (it uses WebGL), and the prototype should run straight away after loading. If this does not work, you may alternatively open and run the project using the Unity editor (instructions for opening the project in Unity is outlined below). If possible, please try to close other CPU or GPU intensive applications that may be running in the background.
